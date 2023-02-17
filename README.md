@@ -14,7 +14,7 @@ I'm Ken, a software developer with 2+ years of experience. I specialize in front
 - [Stuff](https://github.com/Kensukeken/Kensukeken)
 - [C++](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS)
 - [Python](https://github.com/Kensukeken/Python)
-- [TeX](https://github.com/Kensukeken/TeX), [LaTeX](https://github.com/Kensukeken/LaTeX)
+- [TeX](https://github.com/Kensukeken/TeX)
 
 ### Goals
 
