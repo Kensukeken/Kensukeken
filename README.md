@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Ken, a software developer with 2+ years of experience. I specialize in front-end web development using TeX, and c++, as well as back-end development with Python.
+I'm Ken, a software developer with 2+ years of experience. I specialize in front-end web development using TeX, and c++, as well as back-end development with C# and Python.
 
 ### Skills
 - TeX
