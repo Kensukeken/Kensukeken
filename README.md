@@ -3,6 +3,9 @@
 ### Hi there 👋
 
 My passion for Tex knows no bounds, and I'm always happy to lend my expertise to anyone who needs it. As for C#, Python and JavaScript, I'm still a beginner, but I'm determined to master these languages and create amazing applications. I'm also currently learning C++ at school and finding it to be a fascinating subject.
+
+### Languages
+![image](https://user-images.githubusercontent.com/85637598/224047236-2095ed15-7765-4049-8c80-dd7691c8cbb4.png)
 ### Skills
 - TeX
 - C++
