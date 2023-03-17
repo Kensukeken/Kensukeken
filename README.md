@@ -6,15 +6,8 @@ My passion for Tex knows no bounds, and I'm always happy to lend my expertise to
 
 
 ## Language Skills Overview
-| *Languages*  |*Proficiency %*
-| ------------- | ------------- |
-| TeX           | 75.5%
-| C++           | 69%
-| Python        | 40%
-| JavaScript    | 0.01%
 
-![image](https://user-images.githubusercontent.com/85637598/224047236-2095ed15-7765-4049-8c80-dd7691c8cbb4.png)
-
+![image](https://user-images.githubusercontent.com/85637598/225795875-679324df-f0cb-453d-9378-a9ea82620703.png)
 
 ### Projects
 
