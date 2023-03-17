@@ -7,9 +7,10 @@ My passion for Tex knows no bounds, and I'm always happy to lend my expertise to
 ### Languages
 ![image](https://user-images.githubusercontent.com/85637598/224047236-2095ed15-7765-4049-8c80-dd7691c8cbb4.png)
 ### Skills
-- TeX
-- C++
-- Python
+- TeX        = 75.5%
+- C++        = 69%
+- Python     = 40%
+- JavaScript = 0.01%
 
 ### Projects
 
@@ -17,6 +18,7 @@ My passion for Tex knows no bounds, and I'm always happy to lend my expertise to
 - [C++](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS)
 - [Python](https://github.com/Kensukeken/Python)
 - [TeX](https://github.com/Kensukeken/TeX)
+- [JavaScript](https://github.com/Kensukeken/JSByExample)
 
 ### Organization
 [Kensukeken-Lounge](https://github.com/Kensukeken-Lounge)
