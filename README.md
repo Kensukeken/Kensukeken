@@ -18,6 +18,8 @@ My passion for Tex knows no bounds, and I'm always happy to lend my expertise to
 - [Python](https://github.com/Kensukeken/Python)
 - [TeX](https://github.com/Kensukeken/TeX)
 
+### Organization
+[Kensukeken-Lounge](https://github.com/Kensukeken-Lounge)
 ### Goals
 
 I'm currently working on improving my skills in machine learning and data science. My long-term goal is to work on projects that use cutting-edge technology to make a positive impact on people's lives.
