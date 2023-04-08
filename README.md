@@ -26,4 +26,4 @@ I'm currently working on improving my skills in machine learning and data scienc
 ### More About Me
 
 In my free time, I enjoy coding, playing video games, and learning about new technologies. I'm also passionate about open-source software and contributing to the community. <br/>
-Feel free to contract me in Discord: `Kensukeken#2016`
+Feel free to contract me in Discord: `Kensukeken#2227`
