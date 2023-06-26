@@ -4,11 +4,6 @@
 
 My passion for Tex knows no bounds, and I'm always happy to lend my expertise to anyone who needs it. As for C#, Python and JavaScript, I'm still a beginner, but I'm determined to master these languages and create amazing applications. I'm also currently learning C++ at school and finding it to be a fascinating subject.
 
-
-## Language Skills Overview
-
-![image](https://user-images.githubusercontent.com/85637598/225795875-679324df-f0cb-453d-9378-a9ea82620703.png)
-
 ### Projects
 
 - [My-Stuff](https://github.com/Kensukeken/Kensukeken)
