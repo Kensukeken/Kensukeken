@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My passion for Tex knows no bounds, and I'm always happy to lend my expertise to anyone who needs it. As for C#, Python and JavaScript, I'm still a beginner, but I'm determined to master these languages and create amazing applications. I'm also currently learning java at school and finding it to be a fascinating subject.
+My passion for Tex knows no bounds, and I'm always happy to lend my expertise to anyone who needs it. As for C++, Python and JavaScript, I'm still a beginner, but I'm determined to master these languages and create amazing applications. I'm also currently learning java at school and finding it to be a fascinating subject.
 
 ### Projects
 
