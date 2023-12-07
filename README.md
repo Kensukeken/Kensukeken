@@ -1,18 +1,7 @@
 ![Logo](https://cdn.discordapp.com/attachments/934212312921931786/1007127092464463902/ezgif.com-gif-maker1.gif)
 
 ### Hi there 👋
-
-👋 Howdy! I'm Kensukeken, a TeX expert venturing into the exciting world of programming. 🚀 Currently honing my skills in C++, Python, Java, and Julia (L2).
-
-💼 Professionally immersed in TeX, my passion knows no bounds. Always delighted to share my expertise and assist anyone in need.
-
-🌱 In the coding realm, I'm a determined beginner in C++, Python, and JavaScript, on a mission to master these languages and craft amazing applications.
-
-🎓 Currently engrossed in the fascinating world of C++ at school, uncovering the beauty of this powerful language.
-
-💡 Eager to collaborate and learn together. If you have questions or exciting projects, I'm here to help and grow together.
-
-🌐 Join me on this coding journey as I bridge the gap between TeX mastery and the world of versatile programming. Let's code something amazing! 🌟
+My passion for Tex knows no bounds, and I'm always happy to lend my expertise to anyone who needs it. As for C# and Python, I'm still a beginner, but I'm determined to master these languages and create amazing applications. I'm also currently learning C++ at school and finding it to be a fascinating subject
 ### Projects
 
 - [My-Stuff](https://github.com/Kensukeken/Kensukeken)
