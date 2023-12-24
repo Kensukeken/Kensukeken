@@ -10,7 +10,7 @@ My passion for Tex knows no bounds, and I'm always happy to lend my expertise to
   <a href="[your-twitter-URL](https://twitter.com/Kensukeken_)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Kensukeken&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Kensukeken&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### Projects
