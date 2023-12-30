@@ -19,8 +19,10 @@ My passion for Tex knows no bounds, and I'm always happy to lend my expertise to
 - [C++](https://github.com/Kensukeken-Lounge/Cpp-ProgrammingResources)
 - [Python](https://github.com/Kensukeken/Python)
 - [TeX](https://github.com/Kensukeken/TeX)
+- [Julia](https://github.com/Kensukeken/Julia)
 - [Lua](https://github.com/Kensukeken/Roblox-Studio)
 - [Java](https://github.com/Kensukeken/GeometryDash)
+- [HTML](https://github.com/Kensukeken/HTMLDesignLab)
 
 ### Organization
 [Kensukeken-Lounge](https://github.com/Kensukeken-Lounge)
