@@ -1,4 +1,4 @@
-![Logo](https://cdn.discordapp.com/attachments/934212312921931786/1007127092464463902/ezgif.com-gif-maker1.gif)
+![Logo](https://github.com/Kensukeken/Kensukeken/blob/main/gifs/ezgif.com-gif-maker.gif)
 
 ### Hi there 👋
 My passion for Tex knows no bounds, and I'm always happy to lend my expertise to anyone who needs it. As for C# and Python, I'm still a beginner, but I'm determined to master these languages and create amazing applications. I'm also currently learning C++ at school and finding it to be a fascinating subject
