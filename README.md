@@ -52,10 +52,9 @@ My passion for Tex knows no bounds, and I'm always happy to lend my expertise to
 
 
 ## My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kensukeken&theme=dark&background=000000)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kensukeken&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kensukeken&theme=material-palenight)](https://git.io/streak-stats) <br>
+![Kenzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kensukeken&show_icons=true&theme=material-palenight) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kensukeken&layout=donut-vertical&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) <br>
 ### Goals
 I'm currently working on improving my skills in machine learning and data science. My long-term goal is to work on projects that use cutting-edge technology to make a positive impact on people's lives.
 
