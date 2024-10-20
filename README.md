@@ -12,6 +12,8 @@ My passion for Tex knows no bounds, and I'm always happy to lend my expertise to
 <img src="https://komarev.com/ghpvc/?username=Kensukeken&style=flat-square&color=blue" alt=""/>
 </div>
 
+![](https://raw.githubusercontent.com/Kensukeken/Kensukeken/cb581a350c1f49e116690738dd1b5f7325285896/kensukeken.svg)
+
 ### Projects
 
 - [My-Stuff](https://github.com/Kensukeken/Kensukeken)
@@ -61,3 +63,4 @@ I'm currently working on improving my skills in machine learning and data scienc
 
 In my free time, I enjoy coding, playing video games, and learning about new technologies. I'm also passionate about open-source software and contributing to the community. <br/>
 Feel free to contract me in Discord: `kensukeken`
+
