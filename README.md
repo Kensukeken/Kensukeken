@@ -1,14 +1,17 @@
 ![banner](https://github.com/Kensukeken/Kensukeken/blob/main/imgs/banner.jpg)
 ### Hi there 👋
-My passion for Tex knows no bounds, and I'm always happy to lend my expertise to anyone who needs it. As for C# and Python, I'm still a beginner, but I'm determined to master these languages and create amazing applications. I'm also currently learning C++ at school and finding it to be a fascinating subject
+I'm a Painter Artist, Math Enthusiast & Programmer. My passion for Tex knows no bounds, and I'm always happy to lend my expertise to anyone who needs it. As for C#, Rust, and JavaScript, I'm still a beginner, but I'm determined to master these languages and create amazing applications. I'm also currently learning C++ at university and finding it to be a fascinating subject. You can learn more about me in my website linked below.
 
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCBvJDLAaRQ80NCJIASY51bg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/Kensukeken_)">
+  <a href="[Twitter](https://twitter.com/Kensukeken_)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="[My Personal Website](https://kensukeken.github.io/)">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=black%22%20alt=%22GitHub%20Badge"/> 
+  </a> 
 <img src="https://komarev.com/ghpvc/?username=Kensukeken&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -17,14 +20,18 @@ My passion for Tex knows no bounds, and I'm always happy to lend my expertise to
 ### Projects
 
 - [My-Stuff](https://github.com/Kensukeken/Kensukeken)
-- [C++](https://github.com/Kensukeken-Lounge/Cpp-ProgrammingResources)
+- [Integral Are Calculator](https://github.com/Kensukeken/Integral-Area-Calculator)
 - [Python](https://github.com/Kensukeken/Python)
 - [TeX](https://github.com/Kensukeken/TeX)
 - [Julia](https://github.com/Kensukeken/Julia)
-- [Lua](https://github.com/Kensukeken/Roblox-Studio)
-- [Java](https://github.com/Kensukeken/GeometryDash)
-- [HTML](https://github.com/Kensukeken/HTMLDesignLab)
-
+- [Roblox Studio](https://github.com/Kensukeken/Roblox-Studio)
+- [Geometry Dash](https://github.com/Kensukeken/Geometry-Dash)
+- [Arkanoid Game](https://github.com/Kensukeken/Arkanoid-Game)
+- [HTMLDesignLab](https://github.com/Kensukeken/HTMLDesignLab)
+- [Mobile-App](https://github.com/Kensukeken/Mobile-App)
+- [Snake Game Clone](https://github.com/Kensukeken/Snake-Game-Clone)
+- [Go](https://github.com/Kensukeken/Go)
+... and a lot more!
 ### Organization
 [Kensukeken-Lounge](https://github.com/Kensukeken-Lounge)
 
