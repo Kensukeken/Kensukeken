@@ -9,9 +9,9 @@ I'm a Painter Artist, Math Enthusiast & Programmer. My passion for Tex knows no 
   <a href="[Twitter](https://twitter.com/Kensukeken_)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="[My Personal Website](https://kensukeken.github.io/)">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=black%22%20alt=%22GitHub%20Badge"/> 
-  </a> 
+<a href="https://kensukeken.github.io/">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/> 
+</a>
 <img src="https://komarev.com/ghpvc/?username=Kensukeken&style=flat-square&color=blue" alt=""/>
 </div>
 
