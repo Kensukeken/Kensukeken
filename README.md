@@ -76,34 +76,24 @@
   </div>
 
 <hr/>
-
 <h2 align="center">⚡ My Projects ⚡</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://github.com/Kensukeken/Kensukeken">My-Stuff</a></td>
-      <td><a href="https://github.com/Kensukeken/Integral-Area-Calculator">Integral Area Calculator</a></td>
-      <td><a href="https://github.com/Kensukeken/Python">Python</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Kensukeken/TeX">TeX</a></td>
-      <td><a href="https://github.com/Kensukeken/Julia">Julia</a></td>
-      <td><a href="https://github.com/Kensukeken/Roblox-Studio">Roblox Studio</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Kensukeken/Geometry-Dash">Geometry Dash</a></td>
-      <td><a href="https://github.com/Kensukeken/Arkanoid-Game">Arkanoid Game</a></td>
-      <td><a href="https://github.com/Kensukeken/HTMLDesignLab">HTMLDesignLab</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Kensukeken/Mobile-App">Mobile-App</a></td>
-      <td><a href="https://github.com/Kensukeken/Snake-Game-Clone">Snake Game Clone</a></td>
-      <td><a href="https://github.com/Kensukeken/Go">Go</a></td>
-    </tr>
-  </table>
-   <p><a href="https://github.com/Kensukeken?tab=repositories">... and a lot more!</a></p>
-</div>
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Python&theme=material-palenight"> 
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Julia&theme=material-palenight"> 
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=art-of-karate&theme=material-palenight"> 
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=TeX&theme=material-palenight"> 
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=JSByExample&theme=material-palenight"> 
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Geometry-Dash&theme=material-palenight"> 
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Integral-Area-Calculator&theme=material-palenight"> 
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=HTMLDesignLab&theme=material-palenight"> 
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Haskell-Project&theme=material-palenight"> 
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Kensukeken.github.io&theme=material-palenight"> 
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Project-Euler&theme=material-palenight"> 
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=MAO-Virtual-Novel-Engine&theme=material-palenight"> 
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Arkanoid-Game&theme=material-palenight"> 
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Ruby-Scripts&theme=material-palenight"> 
+
+<p><a href="https://github.com/Kensukeken?tab=repositories">... and a lot more!</a></p>
 
 
 <h2 align="center">🎯 Goals 🎯</h2>
