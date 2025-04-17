@@ -8,7 +8,6 @@
 
 <h3 align="center">A painter artist, math enthusiast, and software developer from Canada 🇨🇦</h3>
 
-
 <br/>
 
 <div align="center">
@@ -19,8 +18,7 @@
 
 💬 Feel free to ask me about **Python, Java, or LaTeX!**
 
-  🍁 Fun fact **The first computer in Canada was installed at the University of Toronto in 1948.**
-  
+🍁 Fun fact **The first computer in Canada was installed at the University of Toronto in 1948.**
  </div>
 
 <br/>
@@ -78,20 +76,62 @@
 <hr/>
 <h2 align="center">⚡ My Projects ⚡</h2>
 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Python&theme=material-palenight"> 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Julia&theme=material-palenight"> 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=art-of-karate&theme=material-palenight"> 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=TeX&theme=material-palenight"> 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=JSByExample&theme=material-palenight"> 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Geometry-Dash&theme=material-palenight"> 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Integral-Area-Calculator&theme=material-palenight"> 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=HTMLDesignLab&theme=material-palenight"> 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Haskell-Project&theme=material-palenight"> 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Kensukeken.github.io&theme=material-palenight"> 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Project-Euler&theme=material-palenight"> 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=MAO-Virtual-Novel-Engine&theme=material-palenight"> 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Arkanoid-Game&theme=material-palenight"> 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Ruby-Scripts&theme=material-palenight"> 
+<a href="https://github.com/Kensukeken/Python" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Python&theme=material-palenight">
+</a>
+
+<a href="https://github.com/Kensukeken/Julia" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Julia&theme=material-palenight">
+</a>
+
+<a href="https://github.com/Kensukeken/art-of-karate" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=art-of-karate&theme=material-palenight">
+</a>
+
+<a href="https://github.com/Kensukeken/TeX" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=TeX&theme=material-palenight">
+</a>
+
+<a href="https://github.com/Kensukeken/JSByExample" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=JSByExample&theme=material-palenight">
+</a>
+
+<a href="https://github.com/Kensukeken/Geometry-Dash" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Geometry-Dash&theme=material-palenight">
+</a>
+
+<a href="https://github.com/Kensukeken/Integral-Area-Calculator" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Integral-Area-Calculator&theme=material-palenight">
+</a>
+
+<a href="https://github.com/Kensukeken/HTMLDesignLab" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=HTMLDesignLab&theme=material-palenight">
+</a>
+
+<a href="https://github.com/Kensukeken/Haskell-Project" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Haskell-Project&theme=material-palenight">
+</a>
+
+<a href="https://github.com/Kensukeken/Kensukeken.github.io" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Kensukeken.github.io&theme=material-palenight">
+</a>
+
+<a href="https://github.com/Kensukeken/Project-Euler" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Project-Euler&theme=material-palenight&cachebust=1">
+</a>
+
+<a href="https://github.com/Kensukeken/MAO-Virtual-Novel-Engine" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=MAO-Virtual-Novel-Engine&theme=material-palenight">
+</a>
+
+<a href="https://github.com/Kensukeken/Arkanoid-Game" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Arkanoid-Game&theme=material-palenight">
+</a>
+
+<a href="https://github.com/Kensukeken/Ruby-Scripts" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kensukeken&repo=Ruby-Scripts&theme=material-palenight">
+</a>
+
 
 <p><a href="https://github.com/Kensukeken?tab=repositories">... and a lot more!</a></p>
 
